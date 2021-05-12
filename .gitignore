@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+src/components/HelloWorld copy.vue
+1lesson.txt
 
 # local env files
 .env.local
