@@ -4,7 +4,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to My Vue.js App" :msgBool="false"/>
+    <HelloWorld msg="Welcome to My Vue.js App" msgBool="false"/>
   </div>
 </template>
 

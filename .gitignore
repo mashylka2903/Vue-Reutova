@@ -3,6 +3,7 @@ node_modules
 /dist
 src/components/HelloWorld copy.vue
 1lesson.txt
+2lesson.txt
 
 # local env files
 .env.local
